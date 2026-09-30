@@ -5,3 +5,4 @@ Sitemap: https://yuno-lab.com/sitemap.xml
 Sitemap: https://yuno-lab.com/big3-menu/sitemap.xml
 Sitemap: https://yuno-lab.com/body-menu/sitemap.xml
 Sitemap: https://yuno-lab.com/squat-goal/sitemap.xml
+Sitemap: https://yuno-lab.com/squat-program/sitemap.xml
