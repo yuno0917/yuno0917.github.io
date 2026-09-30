@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yuno-lab.com/sitemap.xml
+Sitemap: https://yuno-lab.com/big3-menu/sitemap.xml
