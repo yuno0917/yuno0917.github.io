@@ -10,3 +10,4 @@ Sitemap: https://yuno-lab.com/bench-goal/sitemap.xml
 Sitemap: https://yuno-lab.com/bench-program/sitemap.xml
 Sitemap: https://yuno-lab.com/rm-calc/sitemap.xml
 Sitemap: https://yuno-lab.com/protein-calc/sitemap.xml
+Sitemap: https://yuno-lab.com/shoninkyu/sitemap.xml
